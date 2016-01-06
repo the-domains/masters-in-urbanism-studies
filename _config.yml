@@ -1,7 +1,7 @@
 name: Masters in Urbanism Studies
 favicon: null
-layout_spectrum: 0.49789
-typography_spectrum: 0.25828
+layout_spectrum: 1
+typography_spectrum: 0.24624
 title: 'Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#020731'
+    - '#3862c6'
+    - '#ae956d'
     - '#ffffff'
-    - '#0353ac'
-    - '#9fc7de'
-    - '#000000'
-    - '#2f2f2f'
+    - '#dcd9cf'
   brandStrength: 0.5
   lightness: 0.7299622420687228
   saturation: 0.4401825852692127

@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden'
-datePublished: '2016-01-05T23:40:37.162Z'
-dateModified: '2016-01-05T23:34:20.469Z'
+datePublished: '2016-01-09T22:48:05.402Z'
+dateModified: '2016-01-06T09:23:11.470Z'
 title: 'Urbanism Studies '
 author: []
+sourcePath: _posts/2016-01-05-urbanism-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-urbanism-studies.md
-published: true
 url: urbanism-studies/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 # 
 
 # **Urbanism Studies **
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0067ad-2146-4ebd-8640-4fb5c816a7dd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f78abb3a-b5e9-45ae-976e-403acb4106f5.jpg)
 
 This one-year Master's programme is aimed at graduates from the fields 
 of architecture, landscape architecture, urban design and city planning 
@@ -42,6 +42,7 @@ the design of our cities.
 **Language of instruction:** English  
 **Application deadline:** January 15 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bd31a71-6d51-4b14-8fff-c94f745d4ade.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0067ad-2146-4ebd-8640-4fb5c816a7dd.jpg)
 
 # **Program outline**
 
@@ -98,6 +99,7 @@ Study Period 2: November 3 -- January 19
 * Studio 2: AG2187 Advanced Urbanism Studio -- Urban Spaces of the City -  6 credits
 * Module 2 -- AG2182 Histories and Contemporary Theories of Urban Form - Fundamentals of Urbanism 6 credits
 * Module 3 -- AG2183 Public Life Studies and Tools for Urban Analysis 3 credits
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5c241f2-2bca-420c-bead-d994bea0c360.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a5abfe1-74bf-4846-9813-0a5bafb92357.jpg)
 
 # Spring Semester
@@ -165,7 +167,6 @@ Aside from [KTH's regular scholarships][0], the Master's Programme in Urbanism S
 
 The [general admission requirements][1] are the same for all programmes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a0cfc4-c098-4c53-b0a0-9d6830974acd.jpg)
-null
 
 # **Application and deadlines**
 
@@ -242,10 +243,8 @@ School of Architecture and the Built Environment
 Graduate Program in Urbanism, Att: Dr. Tigran Haas  
 Drottning Kristinas väg 30, Plan 1, 114 28 Stockholm, Sweden
 
-All other documents should be sent to the address given on the cover sheet.
+All other documents should be sent to the address given on the cover sheet. Only the portfolio should be send to the director of the studies.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa037e8-9cc9-403c-b938-dbbf6b873ad4.jpg)
-null
-null
 
 # **Contact**
 
@@ -253,8 +252,7 @@ Programme director:
 [Dr. Tigran Haas][3], Associate Professor in Urban Planning & Urban Design,
 
 Director of Civitas Athenaeum Laboratory - CAL (Urban Environments & Social Life Research Platform at ABE/KTH: [http://cal.abe.kth.se][4]
-null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a34f07-5bdb-4864-b7ef-67ba55c1d2e4.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f4bfe5bb13c94fc083c0afeb90ea3a4/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F99084e5dc6f5cdc7beb8f10ed7bd833fcfeb12d3.png)
 
 [0]: https://www.kth.se/en/studies/master/kth/urbanism-studies/fees-funding
 [1]: https://www.kth.se/en/studies/master/kth/admission

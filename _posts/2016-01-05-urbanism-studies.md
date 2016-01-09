@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden'
-datePublished: '2016-01-09T22:48:05.402Z'
-dateModified: '2016-01-06T09:23:11.470Z'
+datePublished: '2016-01-09T22:53:19.975Z'
+dateModified: '2016-01-09T22:51:57.613Z'
 title: 'Urbanism Studies '
 author: []
 sourcePath: _posts/2016-01-05-urbanism-studies.md
@@ -42,7 +42,6 @@ the design of our cities.
 **Language of instruction:** English  
 **Application deadline:** January 15 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bd31a71-6d51-4b14-8fff-c94f745d4ade.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0067ad-2146-4ebd-8640-4fb5c816a7dd.jpg)
 
 # **Program outline**
 
@@ -252,7 +251,6 @@ Programme director:
 [Dr. Tigran Haas][3], Associate Professor in Urban Planning & Urban Design,
 
 Director of Civitas Athenaeum Laboratory - CAL (Urban Environments & Social Life Research Platform at ABE/KTH: [http://cal.abe.kth.se][4]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f4bfe5bb13c94fc083c0afeb90ea3a4/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F99084e5dc6f5cdc7beb8f10ed7bd833fcfeb12d3.png)
 
 [0]: https://www.kth.se/en/studies/master/kth/urbanism-studies/fees-funding
 [1]: https://www.kth.se/en/studies/master/kth/admission

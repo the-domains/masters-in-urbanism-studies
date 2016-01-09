@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm]]></title>
         <description><![CDATA[Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/masters-in-urbanism-studies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 23:40:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 22:48:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/masters-in-urbanism-studies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Urbanism Studies ]]></title>
-            <description><![CDATA[<article><h1>Urbanism Studies </h1><p>One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faa25016e1bb767b973e4da42dbf200a727528ae.jpg"></article>]]></description>
-            <link>undefinedurbanism-studies/index.html</link>
+            <description><![CDATA[<article><h1>Urbanism Studies </h1><p>One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4d7ebf719e196f1bae99c8bd10e723edd395979.jpg"></article>]]></description>
+            <link>https://thegrid.ai/masters-in-urbanism-studies/urbanism-studies/index.html</link>
             <guid isPermaLink="false">44506b1a-35f8-450e-a6b4-075a09a9e264</guid>
-            <pubDate>Tue, 05 Jan 2016 23:40:37 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 22:48:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

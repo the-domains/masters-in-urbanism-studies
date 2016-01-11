@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden'
-datePublished: '2016-01-09T22:53:19.975Z'
-dateModified: '2016-01-09T22:51:57.613Z'
+datePublished: '2016-01-11T23:27:31.411Z'
+dateModified: '2016-01-11T23:26:33.844Z'
 title: 'Urbanism Studies '
 author: []
 sourcePath: _posts/2016-01-05-urbanism-studies.md

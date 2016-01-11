@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden'
-datePublished: '2016-01-11T23:27:31.411Z'
-dateModified: '2016-01-11T23:26:33.844Z'
+datePublished: '2016-01-11T23:31:02.746Z'
+dateModified: '2016-01-11T23:29:12.030Z'
 title: 'Urbanism Studies '
 author: []
 sourcePath: _posts/2016-01-05-urbanism-studies.md
@@ -193,6 +193,7 @@ post.
 1. letter of intent describing why she/he should be awarded a scholarship
 2. transcript of grades and copy of the respective candidates' university diploma/degree
 3. two academic letters of recommendation/support
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bf82d4-0cd5-4d8c-995e-8c0a9e9b4963.jpg)
 
 # **Specific admission requirements**
 

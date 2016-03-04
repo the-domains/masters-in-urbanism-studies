@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'One Year Masters Program in Urbanism Studies at KTH Royal Institute of Technology, Stockholm Sweden'
-datePublished: '2016-01-11T23:31:02.746Z'
-dateModified: '2016-01-11T23:29:12.030Z'
-title: 'Urbanism Studies '
+datePublished: '2016-03-04T10:31:40.453Z'
+dateModified: '2016-03-04T10:31:27.919Z'
+title: 'Masters in Urbanism Studies '
 author: []
 sourcePath: _posts/2016-01-05-urbanism-studies.md
 published: true
@@ -22,9 +22,9 @@ url: urbanism-studies/index.html
 _type: Article
 
 ---
-# 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53a19942-95cd-4c2a-a669-3bb5025e7935.jpg)
 
-# **Urbanism Studies **
+# **Masters in Urbanism Studies **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f78abb3a-b5e9-45ae-976e-403acb4106f5.jpg)
 
 This one-year Master's programme is aimed at graduates from the fields 
@@ -158,7 +158,7 @@ groups; regional planning agencies; state planning agencies; private
 developers; non-profit community and affordable housing developers and 
 within academia.
 
-# **Scholarship**
+# **Scholarships**
 
 Aside from [KTH's regular scholarships][0], the Master's Programme in Urbanism Studies offers four KTH scholarships, sponsored by the Ax:son Johnson Foundation.
 
@@ -174,7 +174,7 @@ Application code: E0139
 [More information on the application process and deadlines.][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/120d16de-27e8-4035-8bdf-b4ef707daefd.jpg)
 
-# **Fellowship and Scholarship
+# **Ax:son Johnson Scholarships
 **
 
 Aside from KTH's regular scholarships, the Master's Programme in 
@@ -217,7 +217,7 @@ experience). The evaluation scale is 1-75\.
 
 For students with a 
 degree in archi­tecture, landscape architecture or city and physical 
-planning, the portfolio is considered in the selection process.
+planning, the portfolio is considered in the selection process. Other educational backgrounds will not be considered except in exceptional cases with individuals that have the required design knowledge in the later degrees.
 
 ## Required Documents
 
@@ -232,11 +232,11 @@ In addition, the following set of documents is required for the Master's program
 
 • Motivation letter
 
-• Letters of recommendation
+• 2 Letters of recommendation
 
 • Portfolio (for students with a degree in architecture, landscape architecture or city and physical planning).  
 
-Please note that the portfolio must be sent directly to the Programme director:
+Please note that the portfolio _must be sent_ directly to the Programme director:
 
 KTH -- Royal Institute of Technology  
 School of Architecture and the Built Environment  
@@ -252,6 +252,9 @@ Programme director:
 [Dr. Tigran Haas][3], Associate Professor in Urban Planning & Urban Design,
 
 Director of Civitas Athenaeum Laboratory - CAL (Urban Environments & Social Life Research Platform at ABE/KTH: [http://cal.abe.kth.se][4]
+
+[][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c788a924-3d02-4c7a-aba2-6dc38cad683e.jpg)
 
 [0]: https://www.kth.se/en/studies/master/kth/urbanism-studies/fees-funding
 [1]: https://www.kth.se/en/studies/master/kth/admission
